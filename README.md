@@ -12,7 +12,7 @@
 Reach out and say hello:
 https://www.linkedin.com/in/gagandeep-uppal/
 
-<h3 align="center"> Stack, Languages and Tools <h3>
+<h3 align="center"> Tech Stack <h3>
  <div align="center" width="50px">   
     <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50'/> 
     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='50'/> 
@@ -20,7 +20,6 @@ https://www.linkedin.com/in/gagandeep-uppal/
     <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' width='50'/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width='50'/>    
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='50'/>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg' width='50'/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg' width='50'/> 
     <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' width='50'/
  </div>
