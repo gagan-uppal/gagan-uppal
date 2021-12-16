@@ -1,6 +1,6 @@
  👋 Hi, I’m Gagandeep!
 
- I am a Full-Stack Web Developer recently graduated from the web development bootcamp at Lighthouse Labs with a drive to make positive impacts.
+ I am a Full-Stack Web Developer recently graduated from the web development bootcamp at Lighthouse Labs.
  
 - 🔭I have a background in mathematics.
 - 💼 Got a job opening? Get in touch with me!
