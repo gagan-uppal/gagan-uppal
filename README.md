@@ -7,7 +7,7 @@
 - 🕹️ I have worked as a manual as well as an automation tester.
 - 👯 I am a great team player as well as work independently.
 - 💼 Got a job opening? Get in touch with me!
-- 📫 How to reach me: guppal.profile@@gmail.com
+- 📫 How to reach me: guppal.profile@gmail.com
 - 🌱 My resume: https://resume.creddle.io/resume/11y8mamxg7u
 - ⚡ Connect with me: https://www.linkedin.com/in/gagandeep-uppal/
 
