@@ -9,9 +9,7 @@
 - 💼 Got a job opening? Get in touch with me!
 - 📫 How to reach me: guppal.profile@@gmail.com
 - 🌱 My resume: https://resume.creddle.io/resume/11y8mamxg7u
-
-Reach out and say hello:
-https://www.linkedin.com/in/gagandeep-uppal/
+- ⚡ Connect with me: https://www.linkedin.com/in/gagandeep-uppal/
 
 <h3 align="center"> Tech Stack <h3>
  <div align="center" width="50px">   
