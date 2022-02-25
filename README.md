@@ -1,11 +1,12 @@
  <h2 align="center">👋  Hi, I’m Gagandeep!</h2>
  <br>
 
- I am a Full-Stack Web Developer recently graduated from the web development bootcamp at Lighthouse Labs.
+ I am a Full-Stack Web Developer recently graduated from the web development bootcamp at Lighthouse Labs
  
-- 🔭 I have a background in Mathematics.
-- 🕹️ I have experience working as a manual and automation tester.
-- 👯 I am a great team player as well as work independently.
+- 🔭 I have a background in Mathematics
+- 🕹️ I have experience working as a manual and automation tester
+- 👯 I am a great team player as well as work independently
+- 😄 Pronouns: She/Her
 - 📫 How to reach me: guppal.profile@gmail.com
 - 🌱 My resume: https://resume.creddle.io/resume/11y8mamxg7u
 - ⚡ Connect with me: https://www.linkedin.com/in/gagandeep-uppal/
